@@ -1,1 +1,3 @@
 # MachineLearningBasic
+
+* Logistic Regression
