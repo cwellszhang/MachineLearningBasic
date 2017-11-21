@@ -6,3 +6,5 @@
 * C4.5
 * CART
 ## AdaBoost
+## GBDT
+## SVD
